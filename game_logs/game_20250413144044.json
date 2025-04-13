@@ -1,0 +1,2 @@
+{"timestamp": "2025-04-13 14:40:44", "event_type": "game_start", "game_id": "20250413144044", "players": {"xuan": {"color": "black"}, "ke": {"color": "white"}}}
+{"timestamp": "2025-04-13 14:40:59", "event_type": "player_disconnect", "game_id": "20250413144044", "player": "ke"}

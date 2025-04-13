@@ -1,0 +1,4 @@
+{"timestamp": "2025-04-13 15:21:46", "event_type": "game_start", "game_id": "20250413152146", "players": {"ke": {"color": "white"}, "xuan": {"color": "black"}}}
+{"timestamp": "2025-04-13 15:21:51", "event_type": "move", "game_id": "20250413152146", "player": "xuan", "color": "black", "position": [5, 7]}
+{"timestamp": "2025-04-13 15:21:54", "event_type": "move", "game_id": "20250413152146", "player": "ke", "color": "white", "position": [5, 10]}
+{"timestamp": "2025-04-13 15:21:58", "event_type": "player_disconnect", "game_id": "20250413152146", "player": "xuan"}
